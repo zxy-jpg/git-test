@@ -1,0 +1,3 @@
+it is the first file we created and we should learn to change it by git or github desktop
+please solve these problems:  5+2=     ,6+4=    
+and then you can commit it and push it to the github.
